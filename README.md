@@ -18,7 +18,7 @@ The chatbot displays the response.
 The process repeats until the user types exit.
 
 
-Example:
+_**Example:**_
 
 
 AI Chatbot Started!
